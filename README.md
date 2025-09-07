@@ -43,9 +43,6 @@ This project analyzes sales data from a Coffee Shop and presents insights throug
 - **Microsoft Excel** → Data Cleaning, Pivot Tables, Dashboard Creation  
 - **Charts & Slicers** → For interactive visual analysis
   
-## 📸 Dashboard Preview
-https://github.com/Priyanshisharma90/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.jpg
-
 ## 📈 Business Use Cases
 - Identify **peak business hours** to optimize staffing.  
 - Analyze **top products** to plan inventory and promotions.  
