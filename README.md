@@ -1,7 +1,5 @@
 # ☕ Coffee Shop Sales Dashboard
 
-[![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Analysis](https://img.shields.io/badge/Analysis-Sales%20Dashboard-blue)]
-
 ## 📊 Project Overview
 This project analyzes sales data from a Coffee Shop and presents insights through an **interactive dashboard built in Excel**. The dashboard highlights sales performance, customer behavior, and product trends to support data-driven decision-making.
 
@@ -44,6 +42,9 @@ This project analyzes sales data from a Coffee Shop and presents insights throug
 ## 🛠 Tools Used
 - **Microsoft Excel** → Data Cleaning, Pivot Tables, Dashboard Creation  
 - **Charts & Slicers** → For interactive visual analysis
+  
+## 📸 Dashboard Preview
+https://github.com/Priyanshisharma90/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.jpg
 
 ## 📈 Business Use Cases
 - Identify **peak business hours** to optimize staffing.  
@@ -53,11 +54,5 @@ This project analyzes sales data from a Coffee Shop and presents insights throug
 
 ---
 
-## 📸 Dashboard Preview
 
 
----
-
-### 👩‍💻 Author
-**Priyanshi Sharma**  
-Data Science Enthusiast | Machine Learning & Analytics | Power BI & Excel
